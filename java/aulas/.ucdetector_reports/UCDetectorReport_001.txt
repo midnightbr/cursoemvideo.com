@@ -1,0 +1,3 @@
+Created with UCDetector 2.0.0	2021-04-11 19:17:47	http://www.ucdetector.org/	Created by class: org.ucdetector.report.TextReport	
+Location	Description	Java	Marker	Author
+HelloWorld.<init>(HelloWorld.java:8)	Class "HelloWorld" has 0 references	HelloWorld	org.ucdetector.analyzeMarkerReference	Marcos Henrique
